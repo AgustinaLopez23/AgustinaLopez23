@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**AgustinaLopez23/AgustinaLopez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'am Agus!
 
-Here are some ideas to get you started:
+* Estudiante de Analista de Sistemas Informáticos con experiencia en el desarrollo y la implementación de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+
+* HTML, CSS, Javascript, PHP
+
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AgustinaLopez23&theme=tokyonight&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
