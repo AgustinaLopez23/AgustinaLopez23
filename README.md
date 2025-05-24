@@ -1,4 +1,5 @@
 
+
 # Hey, I'am Agus!
 
 * Estudiante de Analista de Sistemas Informáticos con experiencia en el desarrollo y la implementación de soluciones tecnológicas.
@@ -13,4 +14,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AgustinaLopez23&theme=tokyonight&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Most Used Languages]![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinaLopez23&layout=compact)
+
